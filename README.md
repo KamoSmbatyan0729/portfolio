@@ -1,10 +1,3 @@
-#### Make sure you have the latest version of both Git and Node on your computer.
-
-```
-node --version
-git --version
-```
-
 <br />
 
 # Getting Started :dart:
