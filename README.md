@@ -1,5 +1,3 @@
-<br />
-
 # Getting Started :dart:
 ### Fork and Clone the repo
 
