@@ -1,30 +1,16 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Open Agent',
-        jobtitle: 'Front End Developer',
-        startYear: '2015',
-        endYear: '2017'
-    },
-    {
-        id: 2,
-        company: 'Incarta',
-        jobtitle: 'Front End Developer',
-        startYear: '2017',
+        company: 'RESCODE Company',
+        jobtitle: 'Full Stack Developer',
+        startYear: '2018',
         endYear: '2019'
     },
     {
-        id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Blockchain Developer',
-        startYear: '2020',
-        endYear: '2021'
-    },
-    {
-        id: 3,
-        company: 'KURONURI',
-        jobtitle: 'Blockchain | Full Stack Engineer',
-        startYear: '2021',
+        id: 2,
+        company: 'OSRAM',
+        jobtitle: 'Full Stack Developer',
+        startYear: '2019',
         endYear: '2023'
     },
     {
@@ -35,7 +21,7 @@ export const experienceData = [
         endYear: '2024'
     },
     {
-        id: 3,
+        id: 4,
         company: 'Dwayne',
         jobtitle: 'Back End Engineer',
         startYear: '2024',
